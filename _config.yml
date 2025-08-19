@@ -1,0 +1,54 @@
+# Theme Settings
+remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin  : "contrast"
+
+# Site Settings
+locale                 : "en-US"
+title                  : "Tandis Salem"
+title_separator        : "-"
+subtitle               : "Ph.D. Student in Bioinformatics, UC Riverside"
+name                   : "Tandis Salem"
+description            : "Research on computational drug discovery and synergistic drug combinations"
+url                    : "https://tandis.github.io"
+baseurl                : ""   # leave blank unless site lives in a subfolder
+repository             : "tandissalem/tandis.github.io"
+teaser                 : "/images/head.jpg"
+logo                   : 
+masthead_title         : 
+words_per_minute       : 200
+
+# Site Author
+author:
+  name             : "Tandis Salem"
+  avatar           : "/images/head.jpg"  # add your portrait here if you have one
+  bio              : "Ph.D. student in Bioinformatics at UC Riverside. Researching drug synergy prediction and computational drug discovery."
+  location         : "California, USA"
+  email            : "tandis@example.com" # replace with your actual email or leave blank
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:tandis@example.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tandissalem"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/tandissalem/"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=XXXXXX" # replace with your actual scholar ID
+
+# Site Footer
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tandissalem"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/tandissalem/"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=XXXXXX"
+
+# Other settings left as-is (search, analytics, compression, plugins, etc.)
