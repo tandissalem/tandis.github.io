@@ -9,9 +9,9 @@ title_separator        : "-"
 subtitle               : "Ph.D. Student in Bioinformatics, UC Riverside"
 name                   : "Tandis Salem"
 description            : "Research on computational drug discovery and synergistic drug combinations"
-url                    : "https://tandis.github.io"
+url                    : "https://tandissalem.github.io"
 baseurl                : ""   # leave blank unless site lives in a subfolder
-repository             : "tandissalem/tandis.github.io"
+repository             : "tandissalem/tandissalem.github.io"
 teaser                 : 
 logo                   : 
 masthead_title         : 
