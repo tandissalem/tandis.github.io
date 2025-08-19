@@ -20,14 +20,14 @@ words_per_minute       : 200
 # Site Author
 author:
   name             : "Tandis Salem"
-  avatar           : "/images/head.jpg"  # add your portrait here if you have one
+  avatar           :   # add your portrait here if you have one
   bio              : "Ph.D. student in Bioinformatics at UC Riverside. Researching drug synergy prediction and computational drug discovery."
   location         : "California, USA"
-  email            : "tandis@example.com" # replace with your actual email or leave blank
+  email            : "tsale010@ucr.edu" # replace with your actual email or leave blank
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:tandis@example.com"
+      url: "mailto:tsale010@ucr.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tandissalem"
@@ -36,7 +36,7 @@ author:
       url: "https://www.linkedin.com/in/tandissalem/"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=XXXXXX" # replace with your actual scholar ID
+      url: 
 
 # Site Footer
 footer:
@@ -49,6 +49,6 @@ footer:
       url: "https://www.linkedin.com/in/tandissalem/"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=XXXXXX"
+      url: 
 
 # Other settings left as-is (search, analytics, compression, plugins, etc.)
