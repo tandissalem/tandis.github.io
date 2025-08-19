@@ -12,7 +12,7 @@ description            : "Research on computational drug discovery and synergist
 url                    : "https://tandis.github.io"
 baseurl                : ""   # leave blank unless site lives in a subfolder
 repository             : "tandissalem/tandis.github.io"
-teaser                 : "/images/head.jpg"
+teaser                 : 
 logo                   : 
 masthead_title         : 
 words_per_minute       : 200
