@@ -23,7 +23,6 @@ author:
   avatar           :   # add your portrait here if you have one
   bio              : "Ph.D. student in Bioinformatics at UC Riverside. Researching drug synergy prediction and computational drug discovery."
   location         : "California, USA"
-  email            : "tsale010@ucr.edu" # replace with your actual email or leave blank
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -38,18 +37,6 @@ author:
       icon: "fas fa-fw fa-graduation-cap"
       url: 
 
-# Site Footer
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/tandissalem"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/tandissalem/"
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-graduation-cap"
-      url: 
 
 # Plugins
 plugins:
